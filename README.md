@@ -1,19 +1,3 @@
-
-[nama_project]: Makna Kemerdekaan
-[tentang_project]: Basic Widget - Kemerdekaan
-[screenshot_project]: ss
-[teknologi_digunakan]: Flutter
-[nama_peserta] : Wahidun Niam F A
-
-[kode_tugas]: Tugas 2
-[jenis_kelas]: Eudeka Flutter Basic
-[nama_kelas]: Eudeka OSG 08
-[tentang_kelas]: Belajar Pemrograman Flutter Dasar
-[waktu_kelas]: 1 Bulan
-[tujuan_kelas]: Memahami Dasar - Dasar Flutter
-[cara_daftar]: Bootcamp UNIDA
-[kode_kelas]: Eudeka OSG 08
-
 # Makna Kemerdekaan ( Tugas 2 )
 Makna Basic Widget - Kemerdekaan.
 
