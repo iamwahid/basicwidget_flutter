@@ -1,16 +1,47 @@
-# kemerdekaan
 
-A new Flutter application.
+[nama_project]: Makna Kemerdekaan
+[tentang_project]: Basic Widget - Kemerdekaan
+[screenshot_project]: ss
+[teknologi_digunakan]: Flutter
+[nama_peserta] : Wahidun Niam F A
 
-## Getting Started
+[kode_tugas]: Tugas 2
+[jenis_kelas]: Eudeka Flutter Basic
+[nama_kelas]: Eudeka OSG 08
+[tentang_kelas]: Belajar Pemrograman Flutter Dasar
+[waktu_kelas]: 1 Bulan
+[tujuan_kelas]: Memahami Dasar - Dasar Flutter
+[cara_daftar]: Bootcamp UNIDA
+[kode_kelas]: Eudeka OSG 08
 
-This project is a starting point for a Flutter application.
+# Makna Kemerdekaan ( Tugas 2 )
+Makna Basic Widget - Kemerdekaan.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
+![ScreenShot](http://tinyimg.io/i/Na8IaAh.jpeg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Built With
+Flutter
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Created By
+Wahidun Ni'am F A
+
+## Eudeka Flutter Basic Eudeka!
+Belajar Pemrograman Flutter .
+
+## Eudeka OSG 08
+Dengan jangka waktu lebih kurang 1 Bulan, peserta diharapkan dapat Bisa mengunakan Flutter.
+
+## Cara Mendaftar TEudeka Flutter Basic
+Bootcamp UNIDA.
+
+## Info Lebih Lengkap
+Website : [www.eudeka.id](https://www.eudeka.id).  
+Twitter: [@EudekaID](https://twitter.com/EudekaID).  
+Telegram : [@eudekainfo](https://t.me/eudekainfo).  
+Instagram : [@eudeka.id](https://instagram.com/eudeka.id).  
+WhatsApp : [0895351577557](https://wa.me/62895351577557).  
+Email : [info@eudeka.id](mailto:info@eudeka.id).  
+
+###### tags: `Templates` `Eudeka`
+
